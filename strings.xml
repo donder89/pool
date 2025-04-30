@@ -1,5 +1,5 @@
  <resources>
-   <string name="login2">input number %d and output number %s</string>
+   <string name="login2">1 input number %d and output number %s</string>
    <string name="title_dialog">Dialog</string>
    <string name="title_favorites">Favorites</string>
    <string name="title_history">History</string>
